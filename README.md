@@ -19,3 +19,6 @@ https://www.youtube.com/watch?v=EW_jdZ7fXzw
 
 
 
+## The Roland Juno-60
+
+This is what Vulfpeck plays on the it gets funkier II track, as well as a few other places. I want to do some more work with this keyboard, maybe even expose the functionality to get more of their sounds.
